@@ -10,6 +10,13 @@
 
 ---
 
+## 📸 Screenshots
+
+### Console Output
+![Console Output](screenshots/img.png)
+
+### HTML Dashboard Report
+![HTML Report](screenshots/img_1.png)
 ## 📸 Preview
 
 ```
