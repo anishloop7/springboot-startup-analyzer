@@ -18,7 +18,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-<!--    <n>SpringBoot Startup Analyzer – Demo App</n>-->
+<!--    <n>SpringBoot Startup Analyzer – Demo App Anish Raj</n>-->
     <description>Demo application showcasing the springboot-startup-analyzer library</description>
 
     <properties>
