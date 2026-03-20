@@ -85,6 +85,7 @@ public class LazyLoadSuggester {
     /**
      * Checks if other beans declared a dependency on this bean.
      * If many beans depend on it, laziness won't help startup time much.
+     * ConfigurableApplicationContext
      */
     private boolean isHeavilyDependedUpon(String beanName, String[] allBeanNames) {
         int dependentCount = 0;
